@@ -1,0 +1,14 @@
+Digital forensics is so fun. How fun? Veryyyy fun! Let's study about fuzzy hashes
+and see how non-exact matching works! To get a meaningful fuzzy hash, files have
+to have quite a lot of data. That's ok though, because normally files have enough
+data to generate fuzzy hashes. This text file, for example, has just enough data
+to generate a meaningful hash using ssdeep. This is some added data!
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
+irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa 
+qui officia deserunt mollit anim id est laborum.
+
+Nunc congue nisi vitae suscipit tellus mauris a diam. Elementum sagittis vitae et leo duis ut diam quam nulla. Adipiscing elit pellentesque habitant morbi tristique senectus. Fermentum leo vel orci porta non pulvinar. Interdum velit euismod in pellentesque massa placerat duis. Nunc vel risus commodo viverra maecenas. Amet nisl purus in mollis nunc sed id semper. Vulputate eu scelerisque felis imperdiet. Fermentum odio eu feugiat pretium nibh. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Lacinia quis vel eros donec ac odio tempor. Tortor condimentum lacinia quis vel eros donec ac odio. Congue eu consequat ac felis donec et.
